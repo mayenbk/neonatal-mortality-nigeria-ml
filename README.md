@@ -35,26 +35,6 @@ This framework uses indicators from the [2023–24 Nigeria Demographic and Healt
 
 Full microdata is available via the [DHS Programme data request process](https://dhsprogram.com/data/new-user-registration.cfm).
 
-## Repository Structure
-
-```
-neonatal-mortality-nigeria-ml/
-├── README.md
-├── CITATION.md
-├── requirements.txt
-├── .gitignore
-├── src/
-│   ├── preprocessing.py
-│   ├── models.py
-│   └── visualisation.py
-├── data/
-│   └── README.md
-├── notebooks/
-│   └── analysis_guide.md
-└── results/
-    └── model_comparison.csv
-```
-
 ## Setup
 
 ```bash
