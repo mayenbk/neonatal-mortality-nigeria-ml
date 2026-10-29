@@ -1,12 +1,12 @@
-# Neonatal Mortality Risk Prediction in Nigeria — ML Framework
+# Neonatal Mortality in Nigeria: A Machine Learning Framework
 
-A machine learning framework for neonatal mortality risk stratification using indicators from the 2023–24 Nigeria Demographic and Health Survey (NDHS).
+A machine learning framework for neonatal mortality risk prediction using indicators from the 2023–24 Nigeria Demographic and Health Survey (NDHS).
 
-**Published in:** WorldS4 2026, Springer LNNS — *Neonatal Mortality in Nigeria: A Machine Learning Framework for Risk Prediction Using National Survey Data* — Accepted & Presented, London, UK, July 2026.
+**Published in:** WorldS4 2026, Springer LNNS | *Neonatal Mortality in Nigeria: A Machine Learning Framework for Risk Prediction Using National Survey Data* | Accepted & Presented, London, UK, July 2026.
 
 ## Overview
 
-This repository contains the full ML pipeline developed for the paper, including:
+This repository contains the full machine learning pipeline developed for the paper, including:
 - Feature selection and preprocessing
 - SMOTE-based class imbalance handling
 - Comparative evaluation of 5 classification algorithms
@@ -69,8 +69,7 @@ See `CITATION.md`
 
 ## Author
 
-**Mayen Ben-Koko**  
-Giboel & Co Ltd, London, United Kingdom  
+**Mayen Ben-Koko** 
 [linkedin.com/in/mayenbk](https://linkedin.com/in/mayenbk) | [github.com/mayenbk](https://github.com/mayenbk)
 
 ## License
