@@ -29,6 +29,8 @@ This repository contains the full machine learning pipeline developed for the pa
 2. Preceding Birth Interval (0.163)
 3. Antenatal Care Visits 4+ (0.148)
 
+Note: Results reported in the paper are illustrative of the framework on aggregate NDHS indicators. Replication on individual level microdata is planned.
+
 ## Dataset
 
 This framework uses indicators from the [2023–24 Nigeria Demographic and Health Survey (NDHS)](https://microdata.worldbank.org/index.php/catalog/8029), published by the National Population Commission (NPC) and ICF.
